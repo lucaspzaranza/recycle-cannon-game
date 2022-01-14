@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 2975ecfe317b3f44dbab7573b5bde22a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1760100269883509135
+    second: Lixeiras-1150x383_0
+  - first:
+      213: 3817829776760536282
+    second: plastico
+  - first:
+      213: 6983470725979043746
+    second: Lixeiras-1150x383_3
+  - first:
+      213: -1370802331279233494
+    second: metal
+  - first:
+      213: -8622805948161822254
+    second: organico
+  - first:
+      213: -8315087684941372122
+    second: Lixeiras-1150x383_6
+  - first:
+      213: -8771382948985245055
+    second: Lixeiras-1150x383_7
+  - first:
+      213: -9017531018528705353
+    second: Lixeiras-1150x383_8
+  - first:
+      213: -8486390148756631235
+    second: Lixeiras-1150x383_9
+  - first:
+      213: -8261392064500307265
+    second: Lixeiras-1150x383_10
+  - first:
+      213: -6096231649551408191
+    second: Lixeiras-1150x383_11
+  - first:
+      213: -9088616980783345815
+    second: Lixeiras-1150x383_12
+  - first:
+      213: 5692773762334636840
+    second: Lixeiras-1150x383_13
+  - first:
+      213: -2614875726800605025
+    second: Lixeiras-1150x383_14
+  - first:
+      213: 132291634971394743
+    second: Lixeiras-1150x383_15
+  - first:
+      213: -650483012426042879
+    second: Lixeiras-1150x383_16
+  - first:
+      213: 6023131186804910799
+    second: Lixeiras-1150x383_17
+  - first:
+      213: -7386299821619038824
+    second: Lixeiras-1150x383_18
+  - first:
+      213: 7409096160865973795
+    second: Lixeiras-1150x383_19
+  - first:
+      213: -4827254390804804649
+    second: Lixeiras-1150x383_20
+  - first:
+      213: 1578556798962104754
+    second: Lixeiras-1150x383_21
+  - first:
+      213: 1506031640175783423
+    second: Lixeiras-1150x383_22
+  - first:
+      213: 1854924207284059246
+    second: Lixeiras-1150x383_23
+  - first:
+      213: 2592465419436754223
+    second: Lixeiras-1150x383_24
+  - first:
+      213: 255623298969270806
+    second: Lixeiras-1150x383_25
+  - first:
+      213: -8694765493161546303
+    second: Lixeiras-1150x383_26
+  - first:
+      213: -7315404497626482885
+    second: Lixeiras-1150x383_27
+  - first:
+      213: 53286350047076016
+    second: Lixeiras-1150x383_28
+  - first:
+      213: 6340790773458935805
+    second: Lixeiras-1150x383_29
+  - first:
+      213: 8649418396312727026
+    second: Lixeiras-1150x383_30
+  - first:
+      213: -6030063701093085285
+    second: Lixeiras-1150x383_31
+  - first:
+      213: -5459327369725963169
+    second: Lixeiras-1150x383_32
+  - first:
+      213: 3606186521013026553
+    second: Lixeiras-1150x383_33
+  - first:
+      213: -8093914743009099391
+    second: Lixeiras-1150x383_34
+  - first:
+      213: 3314312571089720395
+    second: Lixeiras-1150x383_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plastico
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 98
+        width: 165
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc78b844f7abf430800000000000000
+      internalID: 3817829776760536282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 98
+        width: 151
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ee2d2ea8ee9fce0800000000000000
+      internalID: -1370802331279233494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: organico
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 96
+        width: 178
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d170bcfca3a55880800000000000000
+      internalID: -8622805948161822254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c20714ef8a907994b8fd1a3b4a6df08e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
